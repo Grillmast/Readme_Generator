@@ -2,7 +2,7 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" />
 
   ## Description
-  A README.md generator for those who would like to spruce up their github profile. Created with the purpose to save time and improve efficiency. 
+  A README.md generator for those who would like to spruce up their github profile. Created with the purpose to save time and improve efficiency.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -10,6 +10,7 @@
   * [Usage](#usage)
   * [Tests](#tests)
   * [Contributing](#contributing)
+  * [Questions](#questions)
   ## License
 
     This project is licensed under the MIT license.
@@ -17,7 +18,7 @@
     [MIT](https://opensource.org/license/mit-0/)
 
   ## Features
-  Quickly and efficiently create a README.md file. 
+  Quickly and efficiently create a README.md file.
 
   ## How to Use This Application
   Once installed you will need Node to run. Open your integrated terminal. Install the dependencies using 'npm i'. Once installed, run 'node index.js' and the prompt will appear in your integrated terminal.
@@ -27,4 +28,7 @@
   
   ## Contributing
   N/A
+
+  ## Questions
+  If you have any questions about the repo, please contact [Grillmast](mailto:blank@gmail.com).
   
